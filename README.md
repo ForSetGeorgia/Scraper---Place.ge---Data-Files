@@ -1,5 +1,5 @@
 # Place.ge Scraper Data Files
-A collection of monthly csv files that are the result of the [Place Ge Scraper](https://github.com/JumpStartGeorgia/Place-ge-Scraper).
+A collection of monthly csv files that are the result of the [Place Ge Scraper](https://github.com/ForSetGeorgia/Scraper---Place.ge).
 
 The scraper runs on the 15th of every month to record all of the records from the previous month. After the scraper is finished, a new CSV file will be added to this repository.
 
