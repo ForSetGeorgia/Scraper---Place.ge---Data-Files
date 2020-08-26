@@ -1,0 +1,888 @@
+pid,price,price_currency,price_timeframe,month,year,area,larea,type,otype,otype_sub,cid,rid,did,tagged_sid,renovation,nrooms,nbeds,nbaths,nbalcs,wfloor,status
+508832,85820,lari,,7,2020,50,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,,Old renovated,2,1,1,,1,old building
+934450,3074,lari,month,7,2020,83,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,,,Newly renovated,3,2,1,1,1,new building
+1135149,122920,lari,,7,2020,75,,for_sale,flat,Apartments,Batumi,,,Sheriff Khimshiashvili st.,White Frame,2,1,1,1,2,under construction
+864411,153250,lari,,7,2020,43,,for_sale,flat,Apartments,Bakuriani,,,,Newly renovated,1,1,1,1,3,new building
+1032914,Contract price,,,7,2020,,1300,for_sale,land,Land,Mtskheta,,,,,,,,,,
+857856,5224,lari,month,7,2020,154,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Eurostandard,4,2,3,2,2,new building
+685059,1844,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,4,3,2,2,3,new building
+798725,1555,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Eurostandard,2,1,1,1,8,new building
+757518,1690,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,2,1,1,1,4,new building
+909840,2632,lari,month,7,2020,105,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Tamarashvili st.,Eurostandard,3,2,2,2,6,new building
+993297,11677,lari,month,7,2020,385,400,for_rent,private_house,House,Mtskheta,,,,Eurostandard,5,3,3,3,,new building
+1075217,9219,lari,month,7,2020,400,2000,for_rent,private_house,House,Mtskheta,,,,Eurostandard,7,4,4,4,,new building
+891669,9219,lari,month,7,2020,220,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Eurostandard,4,3,3,3,7,new building
+746262,2151,lari,month,7,2020,550,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Eurostandard,2,1,1,1,7,new building
+993303,12292,lari,month,7,2020,350,400,for_rent,private_house,House,Mtskheta,,,,Eurostandard,6,4,4,4,,new building
+1060631,7683,lari,month,7,2020,230,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,4,3,3,3,11,new building
+752665,1844,lari,month,7,2020,95,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Eurostandard,2,1,1,1,6,new building
+777500,1600,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Dolidze st.,Eurostandard,4,3,2,2,5,new building
+1047068,2458,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,3,2,1,1,15,new building
+832288,3000000,lari,,7,2020,450,,for_sale,commercial_estate,Restaurant,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,,,6,,,new building
+905506,9219,lari,month,7,2020,250,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Eurostandard,5,3,3,3,3,new building
+915235,7683,lari,month,7,2020,270,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Eurostandard,5,3,3,3,8,new building
+941862,1537,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Chikovani st.,Eurostandard,2,1,1,1,6,new building
+706089,3380,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Tamarashvili st.,Eurostandard,4,3,2,3,3,new building
+729898,7375,lari,month,7,2020,170,250,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,4,3,2,,,new building
+859435,3629,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kostava st.,Eurostandard,4,3,2,2,4,new building
+686122,2458,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Mardjanishvili st.,Eurostandard,3,2,2,2,4,new building
+694832,37,lari,month,7,2020,3385,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,Tabukashvili st.,Eurostandard,50,,10,,1,new building
+859441,5681,lari,month,7,2020,87,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Eurostandard,5,,1,,1,new building
+924469,5224,lari,month,7,2020,340,1500,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 7,,Eurostandard,7,4,3,4,,new building
+841014,12000,lari,month,7,2020,680,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Eurostandard,5,4,3,3,8,new building
+698169,9219,lari,month,7,2020,250,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,,Eurostandard,4,3,2,3,4,new building
+854074,21511000,lari,,7,2020,4304,,for_sale,commercial_estate,Hotel,Tbilisi,Old Tbilisi,Vera,,Eurostandard,,,45,,,new building
+931386,2458,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Gagarini st.,Eurostandard,3,2,1,1,14,new building
+792381,2250,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Tamarashvili st.,Eurostandard,4,3,2,2,3,new building
+934973,21511,lari,month,7,2020,1500,5000,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 7,,Eurostandard,8,6,6,,,new building
+888890,12292,lari,month,7,2020,420,750,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 7,,Eurostandard,7,4,4,4,,new building
+1126458,3073,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,3,2,2,1,8,new building
+857914,6146,lari,month,7,2020,220,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,N. Ramishvili st.,Eurostandard,4,3,3,3,7,new building
+926526,3073,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,3,2,2,2,2,new building
+782910,960,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Sairme st.,Eurostandard,2,1,1,1,8,new building
+884028,6146,lari,month,7,2020,150,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,4,3,2,2,3,new building
+823103,1350,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Eurostandard,3,2,1,2,5,new building
+1003072,6146,lari,month,7,2020,340,600,for_rent,private_house,House,Tbilisi,Didgori,Tskneti,,Eurostandard,9,5,5,5,,new building
+800321,1675,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Eurostandard,2,1,1,1,6,new building
+859968,3073,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Tamarashvili st.,Eurostandard,3,2,1,1,3,new building
+926529,12292,lari,month,7,2020,250,800,for_rent,private_house,House,Tbilisi,Didgori,Tskneti,,Eurostandard,7,5,6,,,new building
+900675,10141,lari,month,7,2020,210,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Eurostandard,4,3,4,3,17,new building
+701766,9219,lari,month,7,2020,380,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Eurostandard,7,5,4,5,10,new building
+1075530,13829,lari,month,7,2020,372,1200,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 9,,Eurostandard,10,5,5,5,,new building
+901452,3688,lari,month,7,2020,170,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Eurostandard,4,3,2,2,3,new building
+787019,16000,lari,month,7,2020,300,3500,for_rent,private_house,House,Tbilisi,Old Tbilisi,Sololaki,,Eurostandard,7,4,4,4,,new building
+743499,1537,lari,month,7,2020,55,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Tamarashvili st.,Eurostandard,2,,1,,1,new building
+795982,36000,lari,month,7,2020,600,300,for_rent,private_house,House,Tbilisi,Didgori,Tskneti,,Eurostandard,7,4,4,4,,new building
+1075534,9219,lari,month,7,2020,300,600,for_rent,private_house,House,Tbilisi,Gldani-Nadzaladevi,Avchala,,Eurostandard,8,6,4,4,,new building
+787027,1200,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Shio Mgvimeli st.,Eurostandard,2,1,1,1,3,new building
+685403,9219,lari,month,7,2020,145,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Eurostandard,4,3,2,3,4,new building
+1118815,10141,lari,month,7,2020,180,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Eurostandard,4,3,3,3,17,new building
+895581,1844,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,2,1,1,1,20,new building
+915296,18438,lari,month,7,2020,600,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,,Eurostandard,13,,5,10,1,new building
+775266,1300,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Gorgasali st.,Eurostandard,2,1,1,1,2,new building
+687969,6146,lari,month,7,2020,250,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,,Eurostandard,5,3,3,3,3,new building
+826979,6175,lari,month,7,2020,200,50,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,4,3,2,2,,new building
+897124,3073,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,,Eurostandard,3,2,2,2,3,new building
+1037305,9219,lari,month,7,2020,108,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,4,2,2,,8,new building
+931068,0,lari,,7,2020,400,1000,for_sale,private_house,House,Tbilisi,Didgori,Tsavkisi,,Under renovation,7,4,3,4,,new building
+1086205,6146,lari,month,7,2020,200,1000,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 9,,Eurostandard,5,4,2,,,new building
+1096835,761,lari,month,7,2020,39,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,2,1,1,1,8,new building
+1133264,106138,lari,,7,2020,42,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Renovated,15,1,1,,1,old building
+1120550,800,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Old renovated,3,1,1,1,2,old building
+1142820,2770,lari,month,7,2020,137,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Gudauri st.,Renovated,4,2,2,3,7,new building
+1054511,1106280,lari,,7,2020,445,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Black Frame,9,6,4,3,14,new building
+1100343,138285,lari,,7,2020,56,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Lubliani st.,Newly renovated,2,1,1,1,9,new building
+1048544,922,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Renovated,2,1,1,1,3,old building
+1045957,430220,lari,,7,2020,80,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Eurostandard,3,2,1,1,5,new building
+1060506,129066,lari,,7,2020,40,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,4,new building
+1064766,1229,lari,month,7,2020,18,,for_rent,commercial_estate,Retail real estate,Tbilisi,Vake-Saburtalo,Vake,,Renovated,1,,1,1,1,old building
+1067842,922,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Renovated,2,1,1,1,6,old building
+1069216,135212,lari,,7,2020,76,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,3,2,1,,2,new building
+1066196,245840,lari,,7,2020,115,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Sanzona,,Renovated,4,3,2,3,7,new building
+1068718,221256,lari,,7,2020,,800,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Didi digomi,,,,,,,,
+1069214,72000,lari,,7,2020,,800,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Didi digomi,,,,,,,,
+1066204,193599,lari,,7,2020,91,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Black Frame,3,2,1,1,4,under construction
+1121579,583870,lari,,7,2020,135,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,,Newly renovated,3,2,2,,8,new building
+1124917,58387,lari,,7,2020,276,,for_sale,commercial_estate,Warehouse,Tbilisi,Isani-Samgori,Samgori,,Old renovated,1,,,,1,new building
+1126514,205891,lari,,7,2020,90,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Old renovated,3,2,1,1,6,old building
+1126542,184380,lari,,7,2020,55,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,1,1,1,,1,old building
+1128302,176698,lari,,7,2020,110,430,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Digomi village,,Renovated,3,2,1,,,new building
+1130666,476315,lari,,7,2020,140,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Old renovated,4,3,1,,2,old building
+1144493,138285,lari,,7,2020,82,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Old renovated,3,2,1,1,7,old building
+1122566,1844,lari,month,7,2020,85,,for_rent,commercial_estate,Office,Tbilisi,Didube-Chugureti,Chugureti,,Newly renovated,4,,1,,1,new building
+1122429,2612,lari,month,7,2020,108,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Eurostandard,3,2,2,,7,new building
+1122822,276570,lari,,7,2020,140,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,,Old renovated,3,2,1,1,2,old building
+1141585,221256,lari,,7,2020,,2000,for_sale,land,Land,Shovi,,,,,,,,,,
+1141172,162869,lari,,7,2020,58,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Ortachala,,Renovated,25,2,1,,6,old building
+1143364,190526,lari,,7,2020,61,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,5,new building
+955986,1100,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Krtsanisi str.,Newly renovated,2,2,1,1,1,old building
+1136442,1200,lari,month,7,2020,105,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Renovated,3,2,1,1,4,new building
+1077326,476315,lari,,7,2020,210,350,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,6,4,1,,,new building
+1081764,470169,lari,,7,2020,102,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,,Newly renovated,4,3,2,,2,new building
+1104533,829710,lari,,7,2020,119,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Old renovated,3,2,1,,2,old building
+1104610,1107817,lari,,7,2020,155,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,4,3,3,,1,new building
+1100777,459414,lari,,7,2020,135,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Kipiani st.,Newly renovated,3,3,2,,2,old building
+1080558,614600,lari,,7,2020,163,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,2,,10,new building
+1111091,1014090,lari,,7,2020,402,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,6,3,3,,11,new building
+1131386,359541,lari,,7,2020,90,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,3,2,1,,2,new building
+1122041,338030,lari,,7,2020,125,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,3,2,,2,old building
+1143670,2151,lari,month,7,2020,90,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,4,,1,1,4,new building
+1142784,193599,lari,,7,2020,50,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kobuleti st.,Newly renovated,2,1,1,,7,old building
+1115250,952940,lari,,7,2020,274,600,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,7,4,3,,,new building
+1115287,707020,lari,,7,2020,300,925,for_sale,private_house,House,Mtskheta,,,,White Frame,5,4,2,,,new building
+1112755,1,lari,month,7,2020,30,,for_rent,flat,Apartments,Bakuriani,,,,Newly renovated,2,1,1,1,3,new building
+1100806,2551420,lari,,7,2020,266,,for_sale,commercial_estate,Hotel,Tbilisi,Old Tbilisi,Abanotubani,,Newly renovated,,,7,,,new building
+1098250,1466298,lari,,7,2020,,10600,for_sale,land,Land,Tbilisi,Old Tbilisi,Mtatsminda,,,,,,,,
+1123661,633244,lari,,7,2020,100,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Br. Zubalashvili st.,Newly renovated,3,2,2,,3,new building
+1123668,488766,lari,,7,2020,172,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Newly renovated,4,3,3,,6,old building
+1121983,476470,lari,,7,2020,108,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,4,3,1,,17,new building
+1122635,316622,lari,,7,2020,62,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Barnovi st.,Newly renovated,2,1,1,,3,new building
+1123212,307400,lari,,7,2020,56,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,N. Ramishvili st.,Newly renovated,1,1,1,,5,new building
+1142722,1692900,lari,,7,2020,1300,,for_sale,commercial_estate,Warehouse,Tbilisi,Didube-Chugureti,Digomi,,Newly renovated,10,,2,,4,new building
+1141029,504792,lari,,7,2020,106,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Chovelidze st.,Newly renovated,3,2,1,,6,new building
+861133,77,lari,day,7,2020,,,for_lease_one,flat,Apartments,Bakuriani,,,,Renovated,3,2,2,1,5,
+1083420,3380,lari,month,7,2020,147,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Gambashidze st.,Newly renovated,4,3,4,2,5,new building
+1015687,755036,lari,,7,2020,351,,for_sale,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Ateni St.,Newly renovated,3,,2,,1,old building
+1111796,1195,lari,month,7,2020,63,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Saburtalo st.,Newly renovated,2,2,1,1,4,new building
+1124723,80,lari,day,7,2020,,,for_lease_one,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Sankt-Peterburg st.,Newly renovated,2,1,1,1,2,new building
+1109581,338030,lari,,7,2020,105,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Chubinashvili st.,Newly renovated,3,2,1,1,8,new building
+1141576,149041,lari,,7,2020,66,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Sairme st.,White Frame,2,1,1,1,7,under construction
+1144596,116159,lari,,7,2020,54,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Black Frame,2,1,1,1,4,under construction
+1033062,100,lari,day,7,2020,,,for_lease_one,flat,Apartments,Batumi,,,,,2,1,1,1,7,
+1107068,160,lari,day,7,2020,,,for_lease_one,summer_house,Summer Cottage,Bakuriani,,,,Newly renovated,6,4,2,2,,old building
+1089389,338030,lari,,7,2020,102,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Mardjanishvili st.,Renovated,2,1,1,1,2,new building
+1006484,4551120,lari,,7,2020,,4300,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Saburtalo,Gagarini st.,,,,,,,
+1117082,201579,lari,,7,2020,65,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Krtsanisi str.,Newly renovated,2,1,1,2,5,new building
+917775,12000,lari,month,7,2020,655,,for_rent,commercial_estate,Office,Tbilisi,Didube-Chugureti,Chugureti,,,12,,4,1,1,
+949285,515000,lari,,7,2020,,400000,for_sale,land,Land,Lagodekhi,,,,,,,,,,
+891412,356000,lari,,7,2020,,1400,for_sale,land,Land,Tbilisi,Gldani-Nadzaladevi,Gldani,,,,,,,,
+1110602,989506,lari,,7,2020,,460,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Vake,,,,,,,,
+881252,124000,lari,,7,2020,,500,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Didi digomi,,,,,,,,
+867432,1170000,lari,,7,2020,,308,for_sale,land,Land,Tbilisi,Old Tbilisi,Avlabari,,,,,,,,
+878450,907000,lari,,7,2020,,740,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Vedzisi,,,,,,,,
+826002,125000,lari,,7,2020,76,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,,Under renovation,3,2,1,2,5,old building
+814767,625000,lari,,7,2020,275,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,,Newly renovated,4,4,3,2,3,old building
+1013218,175000,lari,,7,2020,,1200,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Lisi lake,,,,,,,,
+1007703,750,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,2,1,1,1,6,old building
+1118511,449283,lari,,7,2020,165,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Krtsanisi str.,Old renovated,5,4,2,2,4,old building
+1118184,1182,lari,month,7,2020,70,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,3,,1,1,2,new building
+708267,858200,lari,,7,2020,208,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,4,3,2,2,6,new building
+913979,1083233,lari,,7,2020,235,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,4,3,3,2,7,new building
+897404,1844,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,1,1,9,new building
+1022236,4610,lari,month,7,2020,86,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,2,2,8,new building
+1062063,476315,lari,,7,2020,291,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Vazisubani,Pataridze st.,White Frame,5,4,2,1,13,new building
+1088052,331884,lari,,7,2020,100,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,2,2,new building
+977279,6761,lari,month,7,2020,176,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Lisi lake,,Newly renovated,5,3,2,,2,new building
+1101194,1690,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Shevchenko st.,Newly renovated,2,1,1,,3,new building
+1096113,224329,lari,,7,2020,80,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,3,2,1,1,5,new building
+1096120,3380,lari,month,7,2020,174,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Newly renovated,4,3,2,2,5,old building
+1096127,507045,lari,,7,2020,130,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Tsinamdzgvrishvili st.,Newly renovated,3,1,1,1,9,new building
+1133495,3073,lari,month,7,2020,71,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kobuleti st.,Newly renovated,3,2,1,1,5,new building
+718013,192813,lari,,7,2020,300,1000,for_sale,private_house,House,Bakuriani,,,,Old renovated,6,4,2,3,,
+783782,209700,lari,,7,2020,61,,for_sale,commercial_estate,Restaurant,Tbilisi,Didube-Chugureti,Chugureti,Agmashenebeli ave.,Old renovated,3,,2,,1,old building
+1095784,159796,lari,,7,2020,74,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Mindeli st.,Renovated,1,1,1,1,2,old building
+1113753,267351,lari,,7,2020,103,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,W/o renovation,3,2,1,2,1,old building
+1115301,113394,lari,,7,2020,54,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Old renovated,2,1,1,,16,old building
+727730,1304748,lari,,7,2020,,2160,for_sale,land,Land,Tbilisi,Didube-Chugureti,Didube,,,,,,,,
+588795,2295,lari,month,7,2020,70,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Sololaki,Leonidze st.,Newly renovated,3,,1,,2,
+735139,2449,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Barnovi st.,Newly renovated,4,3,2,2,6,new building
+779567,3059,lari,month,7,2020,190,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,4,3,2,2,7,new building
+849938,1351,lari,month,7,2020,50,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Mitskevichi st.,Renovated,2,,1,,1,old building
+953257,1177,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,1,1,1,1,5,new building
+1060075,169506,lari,,7,2020,105,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Mukhiani,,Old renovated,4,3,2,1,6,old building
+1035029,443916,lari,,7,2020,150,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Shatberashvili st.,White Frame,4,3,3,3,4,new building
+1054676,2193,lari,month,7,2020,70,500,for_rent,summer_house,Summer Cottage,Tbilisi,Didgori,Shindisi,,Newly renovated,4,3,1,,,new building
+1020242,840000,lari,,7,2020,,12000,for_sale,land,Land,Natakhtari,,,,,,,,,,
+1132565,122920,lari,,7,2020,37,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Pekini st.,Newly renovated,2,1,1,1,2,new building
+1139672,Contract price,,,7,2020,220,1250,for_sale,summer_house,Summer Cottage,Ambrolauri,,,,Old renovated,7,4,1,2,,old building
+891512,9731,lari,month,7,2020,300,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,Shevchenko st.,Newly renovated,10,,3,1,1,new building
+889924,983,lari,month,7,2020,60,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Mosashvili st.,Newly renovated,2,,1,1,2,old building
+917160,5388,lari,month,7,2020,170,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Newly renovated,3,2,2,3,3,new building
+949720,1542,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Dariali st.,Newly renovated,2,1,1,3,5,new building
+1071069,5559,lari,month,7,2020,92,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,M.Aleksidze st.,Newly renovated,3,2,2,2,14,new building
+1019009,172705,lari,,7,2020,95,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Gldani,I. Vekua st.,Newly renovated,3,2,1,2,10,new building
+1007724,927,lari,month,7,2020,60,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Kavsadze st.,Newly renovated,2,,1,,1,old building
+1006494,1061,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Gagarini st.,Newly renovated,2,1,1,1,7,new building
+1006454,1000,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Pekini st.,Newly renovated,3,2,1,1,4,old building
+1115022,107555,lari,,7,2020,70,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Sanzona,Guramishvili avenue,Black Frame,3,2,1,1,9,new building
+1117522,1050,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Gagarini st.,Newly renovated,2,1,1,1,11,new building
+1144697,90287,lari,,7,2020,47,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,Ninua St.,White Frame,2,1,1,1,16,under construction
+1141558,47632,lari,,7,2020,136,2132,for_sale,summer_house,Summer Cottage,Tianeti,,,,Black Frame,8,5,4,,,
+1119185,892,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,I.Nikoladze st.,Renovated,2,1,1,1,3,old building
+959770,700,lari,month,7,2020,53,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,2,1,1,1,7,new building
+1132533,Contract price,,,7,2020,80,,for_sale,flat,Apartments,Rustavi,,,,Newly renovated,4,3,1,1,8,
+962496,2090640,lari,,7,2020,3500,,for_sale,commercial_estate,Hotel,Bakuriani,,,,Black Frame,,,10,,,new building
+1144301,26000,lari,,7,2020,,600,for_sale,land,Land,Tbilisi,Gldani-Nadzaladevi,Gldani village,,,,,,,,
+829398,1100,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Mitskevichi st.,Newly renovated,3,2,1,1,8,new building
+858425,920,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,3,
+864730,5160,lari,month,7,2020,100,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,,Old renovated,3,,2,,1,old building
+866272,981,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Varketili,Kupradze st.,Newly renovated,3,2,1,,12,new building
+1118164,2151,lari,month,7,2020,115,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,T.Tabidze st.,Newly renovated,3,,1,2,8,new building
+1120016,30730,lari,,7,2020,,300,for_sale,land,Land,Tbilisi,Gldani-Nadzaladevi,Mukhiani,,,,,,,,
+1144270,462550,lari,,7,2020,115,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,1,2,2,old building
+1118480,106000,lari,,7,2020,34,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,1,1,1,1,8,old building
+1063952,190526,lari,,7,2020,120,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,Giorgi Brtskinvale st.,Newly renovated,4,3,1,2,9,old building
+1088272,1190,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,3,old building
+993564,222793,lari,,7,2020,110,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Panaskerteli st.,Newly renovated,4,3,2,2,5,old building
+935459,161200,lari,,7,2020,95,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Balanchivadze st.,Old renovated,3,2,1,1,6,old building
+1103397,750,lari,month,7,2020,58,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,2,1,1,,4,old building
+1035308,89000,lari,,7,2020,33,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,1,1,1,,2,old building
+999732,1500,lari,month,7,2020,83,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,3,,1,,2,new building
+1112632,447000,lari,,7,2020,300,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Black Frame,6,5,1,1,15,new building
+1001022,800,lari,month,7,2020,42,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,1,1,1,1,8,new building
+1034827,1750,lari,month,7,2020,139,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,4,3,1,1,2,old building
+952136,1163,lari,month,7,2020,63,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,4,2,1,,4,old building
+901713,121300,lari,,7,2020,65,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,3,2,1,,9,old building
+1025359,362000,lari,,7,2020,220,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Panaskerteli st.,Newly renovated,5,4,1,1,2,old building
+914773,1300,lari,month,7,2020,35,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Kostava st.,Newly renovated,2,,1,,1,old building
+991577,1808800,lari,,7,2020,584,1300,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,11,6,4,2,,old building
+1107550,327000,lari,,7,2020,102,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,4,3,1,2,3,new building
+941413,1600,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Old renovated,4,3,2,3,3,old building
+885611,1740,lari,month,7,2020,115,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,,7,new building
+1034345,1600,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Shatberashvili st.,Newly renovated,3,2,2,1,8,new building
+1066856,2500,lari,month,7,2020,104,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,5,,1,,1,new building
+1027691,950,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Renovated,2,1,1,1,4,old building
+1061747,6900,lari,month,7,2020,100,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,,Old renovated,2,,1,,1,new building
+1092210,550,lari,month,7,2020,44,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Samgori,,Newly renovated,15,1,1,1,5,old building
+885112,123400,lari,,7,2020,60,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Vazisubani,Pataridze st.,Newly renovated,3,2,1,,4,new building
+1106039,222000,lari,,7,2020,102,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Old renovated,4,3,2,2,3,old building
+1131899,131500,lari,,7,2020,45,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,Ts.Dadiani st.,Newly renovated,2,1,1,1,4,new building
+1092743,1800,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,3,2,1,1,2,new building
+889995,3547,lari,month,7,2020,190,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Abuladze st.,Newly renovated,5,,2,,1,old building
+1000841,850,lari,month,7,2020,43,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Tskaltubo st.,Newly renovated,2,1,1,1,8,new building
+1110933,152000,lari,,7,2020,68,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Bakradze st.,White Frame,3,2,1,1,12,new building
+963737,900,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,2,1,1,1,11,new building
+959134,222129,lari,,7,2020,114,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Old renovated,4,2,1,1,4,old building
+942240,139800,lari,,7,2020,70,500,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,4,3,1,,,new building
+931494,196200,lari,,7,2020,135,240,for_sale,private_house,House,Tbilisi,Didube-Chugureti,Chugureti,,White Frame,6,5,2,3,,new building
+941735,1470,lari,month,7,2020,50,,for_rent,commercial_estate,Office,Tbilisi,Didube-Chugureti,Chugureti,,Newly renovated,2,,1,,1,old building
+897962,158971,lari,,7,2020,75,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Mesame masivi,,Newly renovated,3,2,1,,2,new building
+885171,4705,lari,month,7,2020,160,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Newly renovated,4,3,2,4,5,new building
+1060277,1800,lari,month,7,2020,103,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,3,2,1,2,18,new building
+1134264,195000,lari,,7,2020,97,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Abanotubani,,Old renovated,4,2,1,1,2,old building
+984250,150000,lari,,7,2020,76,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,3,2,1,1,13,old building
+924616,750,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Sanzona,Ksovreli st.,Newly renovated,2,1,1,2,3,new building
+1092053,800,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Sanzona,Guramishvili avenue,Newly renovated,2,1,1,1,5,new building
+1074390,1229,lari,month,7,2020,51,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tashkenti st.,Newly renovated,2,1,1,,2,old building
+1073110,159796,lari,,7,2020,105,600,for_sale,private_house,House,Tbilisi,Gldani-Nadzaladevi,Avchala,Rioni st.,Old renovated,3,2,1,,,old building
+1029593,1600,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Newly renovated,4,3,2,2,3,old building
+978650,193000,lari,,7,2020,112,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Berbuki st.,White Frame,4,1,2,3,17,new building
+963034,1700,lari,month,7,2020,96,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,2,5,new building
+1094621,229500,lari,,7,2020,86,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kandelaki st.,Newly renovated,3,2,1,1,6,old building
+901340,4854,lari,month,7,2020,70,,for_rent,commercial_estate,Retail real estate,Tbilisi,Didube-Chugureti,Chugureti,,Newly renovated,,,,,,old building
+634667,33814,lari,,7,2020,23,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,,Old renovated,2,1,1,,1,old building
+832322,1200,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bakhtrioni st.,Newly renovated,4,3,1,1,4,old building
+857303,139150,lari,,7,2020,64,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Sanzona,,Eurostandard,2,1,1,1,5,new building
+852863,1100,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,,8,new building
+852356,1250,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,5,old building
+868645,1000,lari,month,7,2020,88,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vedzisi,,Newly renovated,3,2,1,,6,new building
+864706,856638,lari,,7,2020,100,,for_sale,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,,Old renovated,,,2,,1,old building
+858435,1691,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,3,1,1,1,3,new building
+869659,1537,lari,month,7,2020,85,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,,1,,2,new building
+1004554,190000,lari,,7,2020,80,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Dolidze st.,Old renovated,3,2,1,,6,old building
+1024779,121000,lari,,7,2020,90,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,King Tamar avenue,Under renovation,3,2,1,2,2,old building
+1105931,770000,lari,,7,2020,135,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,4,3,1,2,14,new building
+1062158,1100,lari,month,7,2020,53,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,A.Razmadze st.,Newly renovated,2,1,1,1,2,new building
+1099803,134000,lari,,7,2020,50,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Varketili,Kupradze st.,Newly renovated,2,1,1,1,3,new building
+1123103,211000,lari,,7,2020,76,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,1,4,new building
+1090851,222000,lari,,7,2020,95,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Old renovated,3,1,2,2,3,old building
+1038627,113000,lari,,7,2020,80,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,,Old renovated,3,2,2,2,8,old building
+989477,940,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,M.Aleksidze st.,Newly renovated,2,1,1,1,4,new building
+882220,867,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,2,1,1,1,3,old building
+880941,6159,lari,month,7,2020,120,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Tamarashvili st.,White Frame,2,,2,,1,new building
+887602,745,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Newly renovated,1,1,1,,5,old building
+873520,923,lari,month,7,2020,52,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Varketili,,Newly renovated,2,1,3,1,2,new building
+1007156,665000,lari,,7,2020,470,110,for_sale,private_house,House,Tbilisi,Old Tbilisi,Abanotubani,,Newly renovated,12,7,3,2,,new building
+1118269,78000,lari,,7,2020,,3000,for_sale,land,Land,Tbilisi,Isani-Samgori,Lilo,,,,,,,,
+954941,650,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bulachauri st.,Newly renovated,1,1,1,1,4,old building
+978242,1400,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kostava st.,Newly renovated,4,3,1,,7,new building
+1086036,90000,lari,,7,2020,60,,for_sale,commercial_estate,Industrial real estate,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,Ts.Dadiani st.,Newly renovated,2,,1,,1,old building
+1119847,164700,lari,,7,2020,84,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,W/o renovation,3,2,1,1,3,old building
+1096298,461500,lari,,7,2020,152,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,5,4,1,2,8,new building
+1024884,308000,lari,,7,2020,100,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,3,2,2,1,3,new building
+942241,139800,lari,,7,2020,70,500,for_sale,private_house,House,Tbilisi,,,,Newly renovated,4,3,1,,,new building
+959141,142890,lari,,7,2020,70,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Old renovated,2,1,1,,6,old building
+930729,88312,lari,,7,2020,60,170,for_sale,private_house,House,Tbilisi,Gldani-Nadzaladevi,,,White Frame,3,2,4,1,,new building
+1061548,133000,lari,,7,2020,92,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Samgori,Tsulukidze  st.,Old renovated,35,2,1,,2,old building
+1025460,415000,lari,,7,2020,210,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,6,5,1,2,3,old building
+999358,12000,lari,month,7,2020,750,,for_rent,commercial_estate,Business center,Tbilisi,Vake-Saburtalo,Digomi 7,,Newly renovated,16,,12,,3,new building
+1127367,558000,lari,,7,2020,212,450,for_sale,private_house,House,Tbilisi,Didube-Chugureti,Chugureti,,Newly renovated,5,3,2,2,,new building
+1033956,362000,lari,,7,2020,110,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Vera,N.Nikoladze st.,Newly renovated,3,2,2,3,5,old building
+835620,117000,lari,,7,2020,65,,for_sale,flat,Apartments,Batumi,,,,,3,2,1,,11,
+919937,304227,lari,,7,2020,263,1250,for_sale,private_house,House,Batumi,,,,,7,5,2,,,
+900109,169015,lari,,7,2020,400,4000,for_sale,private_house,House,Kobuleti,,,,,8,3,2,,,
+872739,86044,lari,,7,2020,30,,for_sale,flat,Apartments,Batumi,,,,Newly renovated,1,1,1,,16,
+924781,Contract price,,,7,2020,55,,for_rent,flat,Apartments,Kobuleti,,,,,2,1,1,,5,
+945493,Contract price,,,7,2020,130,180,for_rent,private_house,House,Kobuleti,,,,,5,3,2,,,
+1013199,565432,lari,,7,2020,230,,for_sale,commercial_estate,Office,Batumi,,,,,2,,1,,1,
+1055747,92190,lari,,7,2020,37,,for_sale,flat,Apartments,Kobuleti,,,,,1,1,1,,3,
+1059209,107555,lari,,7,2020,,500,for_sale,land,Land,Kobuleti,,,,,,,,,,
+1042583,138285,lari,,7,2020,50,,for_sale,flat,Apartments,Batumi,,,,,3,1,1,,6,
+1047000,138285,lari,,7,2020,80,,for_sale,flat,Apartments,Batumi,,,,,3,2,2,,8,
+1084514,104482,lari,,7,2020,,400,for_sale,land,Land,Shekvetili,,,,,,,,,,
+1110480,158874,lari,,7,2020,47,,for_sale,flat,Apartments,Kobuleti,,,,,2,1,1,,8,
+1098784,442512,lari,,7,2020,,1600,for_sale,land,Land,Tsikhisdziri,,,,,,,,,,
+1117783,161333,lari,,7,2020,70,,for_sale,flat,Apartments,Kobuleti,,,,,3,2,1,,6,
+987739,557750,lari,,7,2020,,3300,for_sale,land,Land,Kobuleti,,,,,,,,,,
+1122478,4917,lari,month,7,2020,180,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Eurostandard,3,2,2,3,3,new building
+1119928,1537,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Eurostandard,2,1,1,1,3,new building
+983313,Contract price,,,7,2020,200,,for_rent,commercial_estate,Retail real estate,Kobuleti,,,,,2,,1,,1,
+978887,691425,lari,,7,2020,,15000,for_sale,land,Land,Kobuleti,,,,,,,,,,
+986794,101409,lari,,7,2020,78,,for_sale,flat,Apartments,Batumi,,,,,3,2,1,,4,
+987742,199745,lari,,7,2020,93,,for_sale,flat,Apartments,Batumi,,,,,3,2,2,,6,
+989444,146275,lari,,7,2020,56,,for_sale,flat,Apartments,Kobuleti,,,,,3,2,1,,7,
+987758,178234,lari,,7,2020,76,,for_sale,flat,Apartments,Batumi,,,,,3,2,1,,6,
+1142824,110628,lari,,7,2020,,450,for_sale,land,Land,Shekvetili,,,,,,,,,,
+1134227,384125,lari,,7,2020,620,952,for_sale,private_house,House,Kobuleti,,,,,20,18,18,,,
+835613,440000,lari,,7,2020,,1100,for_sale,land,Land,Kobuleti,,,,,,,,,,
+831895,195000,lari,,7,2020,240,600,for_sale,private_house,House,Kobuleti,,,,,8,5,4,,,
+919770,77465,lari,,7,2020,35,,for_sale,flat,Apartments,Batumi,,,,,2,1,1,,17,
+916310,135256,lari,,7,2020,65,,for_sale,flat,Apartments,Batumi,,,,,3,2,1,1,6,
+925221,Contract price,,,7,2020,47,,for_rent,flat,Apartments,Batumi,,,,,2,1,1,,3,
+941378,162922,lari,,7,2020,55,,for_sale,flat,Apartments,Kobuleti,,,,,2,1,1,,4,
+957834,399620,lari,,7,2020,160,,for_sale,flat,Apartments,Batumi,,,,,5,4,2,,4,
+956811,101442,lari,,7,2020,33,,for_sale,flat,Apartments,Batumi,,,,,1,1,1,,6,
+1012060,127878,lari,,7,2020,64,,for_sale,flat,Apartments,Kobuleti,,,,,3,2,1,,6,
+1005930,122960,lari,,7,2020,525,,for_sale,flat,Apartments,Batumi,,,,,2,1,1,,2,
+1002204,218254,lari,,7,2020,75,,for_sale,flat,Apartments,Kobuleti,,,,,3,2,1,,5,
+1047012,353510,lari,,7,2020,115,,for_sale,commercial_estate,Office,Kobuleti,,,,,3,,1,,1,
+977799,15370000,lari,,7,2020,,200000,for_sale,land,Land,Gonio,,,,,,,,,,
+958679,169070,lari,,7,2020,110,250,for_sale,summer_house,Summer Cottage,Makhindjauri,,,,,5,3,2,,,
+1107672,138330,lari,,7,2020,51,,for_sale,flat,Apartments,Batumi,,,,,2,1,1,,16,
+1098783,122960,lari,,7,2020,105,9,for_sale,summer_house,Summer Cottage,Kobuleti,,,,,3,3,3,,,
+1128301,660910,lari,,7,2020,240,1375,for_sale,private_house,House,Kobuleti,,,,,10,6,2,,,
+984082,110664,lari,,7,2020,155,,for_sale,flat,Apartments,Kobuleti,,,,,6,5,2,,1,
+958601,704,lari,month,7,2020,48,,for_rent,flat,Apartments,Batumi,,,,,2,1,1,,7,
+968960,92220,lari,,7,2020,,300,for_sale,land,Land,Shekvetili,,,,,,,,,,
+972686,500,lari,month,7,2020,78,,for_rent,flat,Apartments,Kobuleti,,,,,3,2,1,,9,
+984083,79924,lari,,7,2020,47,,for_sale,flat,Apartments,Kobuleti,,,,,2,1,1,,4,
+968958,276660,lari,,7,2020,,3000,for_sale,land,Land,Kobuleti,,,,,,,,,,
+984089,28800,lari,,7,2020,,18000,for_sale,land,Land,Ozurgeti,,,,,,,,,,
+411160,45975,lari,,7,2020,8,,for_sale,commercial_estate,Retail real estate,Tbilisi,Didube-Chugureti,Chugureti,,Newly renovated,1,,1,,2,new building
+311468,168575,lari,,7,2020,75,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,2,1,1,1,1,old building
+935023,829710,lari,,7,2020,,90000,for_sale,land,Land,Tetritskaro,,,,,,,,,,
+975157,6914,lari,month,7,2020,145,,for_rent,commercial_estate,Restaurant,Tbilisi,Old Tbilisi,,,Newly renovated,2,,,,1,old building
+1011055,476315,lari,,7,2020,120,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Abanotubani,,Newly renovated,4,2,2,,2,old building
+989981,1383,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Gurieli st.,Eurostandard,2,1,1,1,7,new building
+1047074,Contract price,,,7,2020,,4765,for_sale,land,Land,Tbilisi,Didgori,Kojori,,,,,,,,
+869619,12990,lari,,7,2020,,5000,for_sale,land,Land,Gardabani,,,,,,,,,,
+1122544,568505,lari,,7,2020,220,80,for_sale,private_house,House,Tbilisi,Didube-Chugureti,Didube,Zugdidi st.,Eurostandard,5,3,2,,,new building
+906442,60,lari,day,7,2020,,,for_lease_one,flat,Apartments,Tbilisi,Vake-Saburtalo,,,Renovated,3,2,1,,1,new building
+1144674,768250,lari,,7,2020,115,,for_sale,commercial_estate,Hotel,Tbilisi,Old Tbilisi,Mtatsminda,Lesia Ukrainka st.,Newly renovated,,,4,,,old building
+1108250,130603,lari,,7,2020,37,,for_sale,flat,Apartments,Bakuriani,,,,Newly renovated,1,1,1,1,4,new building
+1108243,138285,lari,,7,2020,37,,for_sale,flat,Apartments,Bakuriani,,,,Newly renovated,1,1,1,1,3,new building
+1143174,215,lari,,7,2020,,1500,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Lisi lake,,,,,,,,
+599844,322770,lari,,7,2020,123,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bochorishvili st.,Renovated,4,3,2,2,9,new building
+915266,1106640,lari,,7,2020,,263,for_sale,land,Land,Tbilisi,Old Tbilisi,Sololaki,Leselidze st.,,,,,,,
+975138,239772,lari,,7,2020,60,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,,Old renovated,3,2,1,1,3,old building
+999407,76850,lari,,7,2020,27,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,Ietim Gurji st.,W/o renovation,1,1,1,1,3,old building
+1103474,153700,lari,,7,2020,62,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,A.Tsereteli ave.,Renovated,2,1,1,,2,old building
+1136590,3073,lari,month,7,2020,200,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Gotua st.,Newly renovated,6,,3,2,1,new building
+1132549,199745,lari,,7,2020,95,,for_sale,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Gldani,Kerchi st.,White Frame,3,2,1,1,9,new building
+978239,80,lari,day,7,2020,,,for_lease_one,flat,Apartments,Batumi,,,,Newly renovated,3,2,1,,5,new building
+1139797,450,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,Giorgi Brtskinvale st.,W/o renovation,15,1,2,1,8,old building
+430492,3003,lari,month,7,2020,110,2500,for_rent,summer_house,Summer Cottage,Grigoleti,,,,Newly renovated,5,2,2,1,,new building
+719102,64040,lari,,7,2020,,7400,for_sale,land,Land,Telavi,,,,,,,,,,
+868360,1532500,lari,,7,2020,438,1200,for_sale,summer_house,Summer Cottage,Tbilisi,Didgori,Tabakhmela,,Renovated,8,5,3,3,,new building
+826947,600,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Delisi st.,Old renovated,2,1,1,1,2,
+809867,750,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Avlabari,,Renovated,3,2,1,1,2,
+801222,215000,lari,,7,2020,192,200,for_sale,summer_house,Summer Cottage,Ozurgeti,,,,Newly renovated,10,9,2,2,,new building
+929102,Contract price,,,7,2020,73,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Black Frame,2,1,1,1,3,under construction
+1027858,768,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Gr.Robakidze avenue,Newly renovated,2,1,1,,7,old building
+1128708,52241,lari,,7,2020,80,,for_sale,flat,Apartments,Jinvali,,,,W/o renovation,3,2,1,3,8,old building
+1004800,900,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,3,2,1,1,8,new building
+1086465,650,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Renovated,2,1,1,,3,
+1004804,850,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,3,2,1,1,3,old building
+988939,1070,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,,3,2,2,1,2,
+954175,850,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,,,Renovated,15,1,1,1,4,old building
+986200,650,lari,month,7,2020,43,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Old renovated,2,1,1,1,2,
+1026653,700,lari,month,7,2020,72,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,2,1,1,1,7,
+963423,Contract price,,,7,2020,60,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Varketili,,Renovated,1,1,1,,2,old building
+987250,900,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Gr.Robakidze avenue,,2,1,1,1,14,
+990843,Contract price,,,7,2020,65,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,,Eurostandard,2,1,1,1,6,new building
+1001087,230550,lari,,7,2020,145,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Ortachala,Ortachala st.,Black Frame,5,4,1,1,7,new building
+941439,600,lari,month,7,2020,34,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,,1,1,1,1,5,
+990081,3500,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Eurostandard,3,2,2,1,3,new building
+1007231,1200,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,,2,1,1,1,10,
+952478,800,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,,Eurostandard,2,1,1,1,7,
+1129378,1076,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Newly renovated,3,2,2,1,2,new building
+945316,1229,lari,month,7,2020,44,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Eurostandard,1,1,1,1,9,new building
+992935,615,lari,month,7,2020,43,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,,,,2,1,1,1,5,
+994495,650,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,,2,1,1,1,3,
+999662,800,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Gr.Robakidze avenue,Renovated,3,2,1,,2,old building
+1061388,700,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Sanzona,Kvishkheti st.,Newly renovated,3,2,1,1,2,new building
+1059094,820,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,2,1,1,1,5,new building
+1061448,824,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,Petre Iberi st.,Newly renovated,3,2,1,1,2,new building
+1061062,750,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,2,1,1,1,2,new building
+1116172,135212,lari,,7,2020,53,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,D.Gamrekeli st.,White Frame,2,1,1,1,1,new building
+1121292,147504,lari,,7,2020,47,,for_sale,flat,Apartments,Batumi,,,,Newly renovated,2,1,1,1,18,new building
+1106721,445585,lari,,7,2020,139,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Lubliani st.,Newly renovated,4,3,2,2,5,new building
+1109598,3073,lari,month,7,2020,108,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,2,3,7,new building
+1101931,6146,lari,month,7,2020,483,100,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Vedzisi,Lvovi st.,Newly renovated,8,4,5,3,,new building
+1110381,694498,lari,,7,2020,268,200,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,6,4,3,2,,new building
+1099630,2151,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,I.Nikoladze st.,Newly renovated,2,1,1,8,3,new building
+1100916,6146,lari,month,7,2020,200,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Chitadze st.,Newly renovated,4,3,2,2,6,new building
+1121408,983,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,2,1,1,,15,new building
+1132443,178234,lari,,7,2020,65,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,2,1,1,1,6,new building
+1106851,2151,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Rustaveli ave.,Newly renovated,3,2,2,1,6,old building
+1121189,3073,lari,month,7,2020,72,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Newly renovated,2,1,2,9,9,new building
+1115311,491680,lari,,7,2020,280,,for_sale,commercial_estate,Office,Tbilisi,Isani-Samgori,Isani,Atskuri st.,Newly renovated,3,,1,,1,old building
+1120957,1537,lari,month,7,2020,60,10,for_rent,private_house,House,Tbilisi,Old Tbilisi,Vera,Gogebashvili st,Newly renovated,1,1,1,1,,new building
+1100478,2766,lari,month,7,2020,115,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,3,2,2,2,3,old building
+1102529,2458,lari,month,7,2020,120,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Tashkenti st.,Newly renovated,4,,1,,1,old building
+1120964,1383,lari,month,7,2020,35,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,M.Abashidze st.,Newly renovated,2,,1,,1,old building
+1118156,4302,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,2,18,3,new building
+1144932,922,lari,month,7,2020,35,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,1,1,1,1,3,old building
+1135880,250450,lari,,7,2020,120,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Balanchivadze st.,Old renovated,4,3,2,1,15,old building
+1141212,374906,lari,,7,2020,150,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Mardjanishvili st.,Renovated,7,5,2,2,4,old building
+803696,567159,lari,,7,2020,,109602,for_sale,land,Land,Ozurgeti,,,,,,,,,,
+1068673,2483792,lari,,7,2020,3912,,for_sale,commercial_estate,Hotel,Kobuleti,,,,,,,,,,
+547897,3985,lari,month,7,2020,170,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Mardjanishvili st.,Eurostandard,4,3,2,2,10,new building
+548861,1533,lari,month,7,2020,45,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Vera,Kostava st.,Eurostandard,1,1,1,1,2,
+570989,1226,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,1,new building
+822637,1125,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Saburtalo st.,Newly renovated,2,1,1,2,3,old building
+838408,1845,lari,month,7,2020,127,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Khosharauli st.,Newly renovated,4,3,1,1,7,new building
+851328,3985,lari,month,7,2020,170,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Bakhtrioni st.,Newly renovated,4,,2,,1,old building
+859768,736,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,1,1,1,,5,old building
+851270,766,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,,3,new building
+891832,1076,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,M.Asatiani st.,Newly renovated,2,1,1,,1,old building
+890477,10756,lari,month,7,2020,350,300,for_rent,private_house,House,Tbilisi,Old Tbilisi,Vera,Gogebashvili st,Newly renovated,13,8,3,3,,new building
+846839,2766,lari,month,7,2020,115,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Delisi st.,Newly renovated,2,1,1,2,13,new building
+853194,1014,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Khetagurovi st.,Eurostandard,2,1,1,1,1,old building
+791317,1076,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Eurostandard,2,1,1,1,1,new building
+836432,1014,lari,month,7,2020,42,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Gorgasali st.,Eurostandard,2,1,1,1,7,new building
+849815,1229,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Kalandadze st.,Eurostandard,2,1,1,1,3,new building
+843479,2151,lari,month,7,2020,56,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Eurostandard,2,1,1,1,4,new building
+599835,3995,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Besiki st.,Eurostandard,4,3,2,1,4,new building
+587562,1076,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,3,old building
+562746,1229,lari,month,7,2020,78,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,3,2,1,1,6,old building
+659796,1229,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Eurostandard,2,1,1,1,2,old building
+534416,1229,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,2,1,1,1,7,new building
+620187,1229,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Navtlugi,Navtlugi I st.,Eurostandard,3,2,1,1,3,new building
+886650,1844,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Gorgasali st.,Eurostandard,3,2,1,1,3,new building
+931337,1537,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,M.Aleksidze st.,Newly renovated,2,2,1,1,9,new building
+930952,768,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Renovated,2,1,1,1,8,old building
+930017,1076,lari,month,7,2020,38,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Mtatsminda st.,Newly renovated,2,1,1,1,1,old building
+932110,1076,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Khosharauli st.,Newly renovated,2,1,1,1,5,new building
+948167,1229,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Mtskheta st.,Renovated,2,1,1,1,7,old building
+939545,1229,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Lubliani st.,Newly renovated,2,1,1,1,7,new building
+948252,922,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tamarashvili st.,Renovated,2,1,1,1,9,old building
+939648,1137,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,3,
+939649,1198,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,3,new building
+947693,1229,lari,month,7,2020,47,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Newly renovated,2,1,1,1,6,old building
+941511,1076,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,2,1,1,2,4,new building
+947522,1229,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Khvichia st.,Newly renovated,2,1,1,1,3,old building
+1048585,1076,lari,month,7,2020,62,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Ortachala,,Renovated,2,1,1,1,6,old building
+1061174,491680,lari,,7,2020,147,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Black Frame,4,3,2,3,6,new building
+1027896,1321,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,2,1,1,1,6,old building
+1002297,1229,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,,Newly renovated,3,2,2,1,11,new building
+1009723,1229,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,,Newly renovated,2,1,1,1,3,new building
+1103416,1383,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,4,3,1,2,2,old building
+1052222,983,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Renovated,2,1,1,1,2,old building
+1024318,196672,lari,,7,2020,50,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,2,1,1,1,15,new building
+1104958,922,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Mitskevichi st.,Newly renovated,2,1,1,1,2,new building
+1097327,2458,lari,month,7,2020,94,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,3,2,1,2,9,new building
+1097282,1844,lari,month,7,2020,70,120,for_rent,private_house,House,Tbilisi,Old Tbilisi,Mtatsminda,Mtatsminda st.,Newly renovated,2,1,1,,,new building
+1039215,1229,lari,month,7,2020,73,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,3,2,1,2,6,new building
+1010327,1168,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Sairme st.,Newly renovated,2,1,1,1,3,new building
+1054104,1076,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Mitskevichi st.,Newly renovated,3,2,1,1,4,new building
+989849,1076,lari,month,7,2020,54,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,3,2,1,1,1,old building
+1088408,2151,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,3,new building
+1042073,3380,lari,month,7,2020,96,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Gr.Abashidze st.,Renovated,4,3,2,2,2,old building
+1024159,1383,lari,month,7,2020,41,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,2,1,1,1,2,new building
+1088672,177312,lari,,7,2020,66,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Saburtalo st.,White Frame,2,1,1,2,5,new building
+1082016,268888,lari,,7,2020,80,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Newly renovated,3,2,2,2,3,new building
+1054114,7683,lari,month,7,2020,170,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,Gergeti Lane.,Newly renovated,4,3,2,4,4,new building
+1045921,2151,lari,month,7,2020,120,70,for_rent,private_house,House,Tbilisi,Isani-Samgori,,,Newly renovated,3,2,2,2,,old building
+1100708,983,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,3,2,1,1,12,old building
+1036197,2458,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Avlabari,Ketevan Tsamebuli ave.,Renovated,3,2,1,2,5,old building
+1025190,1537,lari,month,7,2020,84,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,16,new building
+1100711,1076,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Mitskevichi st.,Newly renovated,3,2,1,1,8,old building
+1022119,1690,lari,month,7,2020,62,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,14,new building
+1088425,3073,lari,month,7,2020,150,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,4,3,2,3,6,new building
+1105067,1076,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Berbuki st.,Newly renovated,2,1,1,1,11,new building
+1112236,291935,lari,,7,2020,66,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,2,1,1,1,10,new building
+1087148,1229,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,3,2,1,2,4,new building
+1025965,6453,lari,month,7,2020,160,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Gr.Abashidze st.,Newly renovated,3,2,2,2,7,new building
+1066672,1690,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Gr.Abashidze st.,Newly renovated,2,1,1,1,2,old building
+1004208,6146,lari,month,7,2020,115,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,3,2,2,1,8,new building
+1053877,1537,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Mosashvili st.,Newly renovated,2,1,1,1,2,old building
+1083573,1383,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,3,1,2,1,8,new building
+999609,3073,lari,month,7,2020,80,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Renovated,3,,1,,1,new building
+1032635,1480,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,10,new building
+1030332,1383,lari,month,7,2020,57,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Gr.Abashidze st.,Newly renovated,2,1,1,1,2,old building
+1098172,1229,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Mardjanishvili st.,Newly renovated,2,1,1,1,12,new building
+1110974,1844,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,,Newly renovated,2,1,1,1,5,new building
+1110976,1844,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,5,new building
+1025986,4610,lari,month,7,2020,180,300,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Renovated,5,3,2,2,,old building
+987844,1537,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,3,2,1,8,6,old building
+1036228,3688,lari,month,7,2020,86,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,2,2,8,new building
+1110981,1844,lari,month,7,2020,78,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,6,new building
+1098189,1229,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,2,1,1,1,2,new building
+1037007,6146,lari,month,7,2020,170,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Newly renovated,6,5,3,3,10,new building
+1033424,1844,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,E.Tatishvili st.,Newly renovated,2,1,1,1,2,new building
+996309,1844,lari,month,7,2020,250,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,3,2,1,11,old building
+1022678,472013,lari,,7,2020,128,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,White Frame,2,1,1,1,5,new building
+1032667,3688,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Sairme hill,Newly renovated,3,2,2,2,3,new building
+1011676,152114,lari,,7,2020,44,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Newly renovated,2,1,1,1,10,new building
+1097180,1321,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kandelaki st.,Newly renovated,2,1,1,1,5,new building
+1036766,1229,lari,month,7,2020,42,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,2,1,1,1,8,new building
+1060836,1844,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Gr.Abashidze st.,Newly renovated,2,1,1,1,8,new building
+1111013,2458,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,3,2,2,2,6,new building
+1060328,233548,lari,,7,2020,60,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,3,2,1,1,5,new building
+1054441,1137010,lari,,7,2020,240,800,for_sale,private_house,House,Tbilisi,,,,Newly renovated,6,4,3,2,,new building
+1057513,1383,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kobuleti st.,Newly renovated,2,1,1,1,9,new building
+1056748,30730,lari,month,7,2020,440,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Avlabari,,Newly renovated,8,,7,5,4,new building
+1094638,922,lari,month,7,2020,58,,for_rent,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,Ts.Dadiani st.,Newly renovated,2,1,1,1,11,new building
+1113582,1690,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,3,2,1,1,7,new building
+1113549,650,lari,month,7,2020,35,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,1,1,1,,8,old building
+1057031,4610,lari,month,7,2020,150,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,3,2,1,2,new building
+1082377,1000,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,3,2,1,1,5,old building
+1091855,922,lari,month,7,2020,46,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Evdoshvili st.,Newly renovated,2,1,1,1,5,new building
+1090832,830,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Uznadze st.,Renovated,2,1,1,,1,old building
+1050632,1997,lari,month,7,2020,52,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Besiki st.,Newly renovated,2,1,1,1,5,new building
+1057053,1997,lari,month,7,2020,58,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tamarashvili st.,Newly renovated,2,1,1,1,6,new building
+1109801,1000,lari,month,7,2020,40,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Iosebidze st.,Old renovated,2,,1,,1,old building
+1030445,1137,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,2,1,1,1,5,new building
+1073197,1844,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,3,2,1,1,9,new building
+1009967,1045,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,2,1,1,,4,old building
+1078062,138285,lari,,7,2020,56,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,White Frame,2,1,1,1,8,new building
+998958,1100,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,2,1,1,1,6,new building
+1027141,2458,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Anjaparidze st.,Newly renovated,2,1,1,1,5,new building
+1077579,830,lari,month,7,2020,64,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tamarashvili st.,Renovated,3,2,1,1,3,old building
+1081417,900,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Marijani st.,Newly renovated,2,1,1,1,5,new building
+1094472,1537,lari,month,7,2020,64,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Burdzgla st.,Newly renovated,2,,1,,1,new building
+993102,1600,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Abuladze st.,Newly renovated,3,2,1,1,4,new building
+1042509,1137,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,2,1,1,,5,old building
+1104207,922,lari,month,7,2020,138,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Old renovated,3,2,1,,2,old building
+1049935,1229,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,T.Tabidze st.,Newly renovated,2,1,1,1,7,new building
+1078100,307300,lari,,7,2020,98,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,White Frame,3,2,1,1,3,new building
+1051222,1537,lari,month,7,2020,54,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tamarashvili st.,Newly renovated,2,1,1,1,6,new building
+1059674,430220,lari,,7,2020,141,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kutateli st.,Newly renovated,4,3,2,1,10,new building
+1048410,2766,lari,month,7,2020,104,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Mtatsminda st.,Newly renovated,3,2,1,1,2,new building
+1112921,3688,lari,month,7,2020,148,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,4,3,2,1,15,new building
+1082970,1229,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Mosashvili st.,Newly renovated,2,1,1,1,2,old building
+1094235,1383,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Avlabari,Ketevan Tsamebuli ave.,Newly renovated,3,2,1,,7,new building
+995672,5000,lari,month,7,2020,74,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,,10,new building
+907618,122637,lari,,7,2020,35,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Baratashvili raising,Renovated,2,1,1,,2,old building
+1005158,510118,lari,,7,2020,155,,for_sale,flat,Apartments,Tbilisi,,,,Newly renovated,4,3,1,1,4,new building
+1078884,116774,lari,,7,2020,40,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Isani,Gulua st.,Newly renovated,2,1,1,1,2,new building
+1033325,768,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Ortachala,,Newly renovated,2,1,1,1,6,new building
+1081458,1045,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,2,1,1,,10,old building
+1114996,3380,lari,month,7,2020,150,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,4,3,2,1,10,new building
+1087861,830,lari,month,7,2020,66,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,2,1,1,,6,old building
+1025144,1383,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,2,1,1,1,9,new building
+1081467,1229,lari,month,7,2020,58,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,2,1,1,1,11,new building
+1062783,4302,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,3,2,1,1,7,new building
+1078659,922,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,Gulua st.,Newly renovated,2,1,1,1,6,new building
+1048708,2766,lari,month,7,2020,108,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Rustaveli ave.,Newly renovated,4,2,1,1,2,old building
+1075588,2151,lari,month,7,2020,107,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bakhtrioni st.,Newly renovated,3,2,2,1,11,new building
+1106836,830,lari,month,7,2020,54,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Renovated,2,1,1,1,3,new building
+1070303,1076,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Mtskheta st.,Renovated,2,1,1,1,1,old building
+997818,1800,lari,month,7,2020,67,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,2,1,1,1,20,new building
+1136622,384125,lari,,7,2020,118,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kareli st.,Newly renovated,3,2,1,1,4,new building
+1072462,1150,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,Ts.Dadiani st.,Eurostandard,3,2,1,1,7,new building
+1037947,1939,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,3,2,1,1,7,new building
+1074823,3073,lari,month,7,2020,124,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Tamarashvili st.,Eurostandard,3,2,1,4,9,new building
+1069736,1540,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Eurostandard,2,1,1,,3,new building
+1057715,1229,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Kalandadze st.,Newly renovated,2,1,1,1,3,new building
+1050823,940,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Samgori,Kakheti highway,Newly renovated,3,2,1,1,5,new building
+1116923,50,lari,day,7,2020,,,for_lease_one,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Tsinamdzgvrishvili st.,Renovated,2,1,1,,1,old building
+1119001,64533,lari,,7,2020,54,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Agladze st.,Renovated,3,2,1,,1,old building
+1046798,2305,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Kostava turn I,Newly renovated,3,2,1,2,3,new building
+1049618,3073,lari,month,7,2020,150,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,4,3,1,1,7,new building
+1097237,1844,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,3,2,1,1,10,new building
+1097236,1844,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,3,2,1,1,4,new building
+1109781,192984,lari,,7,2020,120,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Varketili,,Newly renovated,5,4,2,2,7,new building
+1004310,799,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,,,,Newly renovated,2,1,1,1,2,new building
+1009686,922,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kandelaki st.,Newly renovated,1,1,1,,1,old building
+1053975,1076,lari,month,7,2020,61,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Pekini st.,Newly renovated,3,2,1,1,8,new building
+1002776,1229,lari,month,7,2020,104,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Pekini st.,Newly renovated,3,2,2,1,4,old building
+1060888,2305,lari,month,7,2020,105,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Renovated,3,2,1,1,4,old building
+1046808,2305,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,N.Nikoladze st.,Newly renovated,3,2,1,2,5,new building
+1061145,1537,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,3,2,1,1,2,new building
+1003290,1844,lari,month,7,2020,57,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Berbuki st.,Newly renovated,2,1,1,1,9,new building
+1053979,1383,lari,month,7,2020,96,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Gotua st.,Newly renovated,3,2,1,1,2,new building
+1049626,7375,lari,month,7,2020,170,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,3,2,3,13,new building
+1014555,1537,lari,month,7,2020,85,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,3,,1,1,2,new building
+1105691,300847,lari,,7,2020,84,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,N. Djvania st.,Newly renovated,2,1,1,1,4,new building
+1002268,983,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,3,new building
+1032478,7683,lari,month,7,2020,180,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,,,Newly renovated,5,4,3,3,7,new building
+1048609,1383,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Ortachala,Gulia st.,Newly renovated,3,2,1,2,7,new building
+1002783,2458,lari,month,7,2020,200,210,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,5,3,2,1,,old building
+1040160,1076,lari,month,7,2020,72,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,2,1,1,1,8,old building
+1104418,1076,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,A.Tsereteli ave.,Newly renovated,2,1,1,1,10,new building
+1061155,1690,lari,month,7,2020,154,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kostava st.,Newly renovated,3,2,1,1,5,old building
+1109026,922,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,2,1,1,1,4,new building
+1004067,1537,lari,month,7,2020,69,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Barnovi st.,Newly renovated,2,1,1,1,2,new building
+1110052,1383,lari,month,7,2020,52,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bulachauri st.,Newly renovated,2,1,1,1,8,new building
+1056805,3073,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Sairme st.,Newly renovated,4,3,2,2,16,new building
+1029927,1076,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Kostava st.,Newly renovated,1,1,1,1,8,old building
+1109032,922,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,2,1,1,1,6,old building
+1023014,1229,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,2,1,1,1,10,new building
+1067563,1076,lari,month,7,2020,68,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Renovated,3,2,1,1,4,old building
+1060908,3688,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,T.Tabidze st.,Renovated,3,2,2,,1,old building
+1060910,3688,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Chovelidze st.,Newly renovated,3,2,1,1,5,new building
+1025839,1537,lari,month,7,2020,63,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,1,1,4,old building
+1089840,2151,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Petriashvili st.,Renovated,3,2,2,2,4,old building
+1109040,1229,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,2,1,1,1,9,new building
+1006450,1076,lari,month,7,2020,56,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kandelaki st.,Newly renovated,2,1,1,1,7,new building
+1054838,1014,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,A.Tsereteli ave.,Newly renovated,3,2,1,1,10,new building
+1104502,921900,lari,,7,2020,185,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,4,3,2,2,7,new building
+1062008,430220,lari,,7,2020,78,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Mtskheta st.,Newly renovated,2,1,1,1,3,new building
+1068920,1229,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,3,2,1,1,2,new building
+988536,1537,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,T.Tabidze st.,Newly renovated,4,3,1,12,2,new building
+1039224,1844,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,3,2,1,2,7,new building
+1009786,284867,lari,,7,2020,86,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,3,2,1,2,4,new building
+988538,1690,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,4,3,2,12,4,new building
+996476,830,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,,,Newly renovated,15,1,1,1,4,old building
+1068926,1076,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,M.Aleksidze st.,Newly renovated,2,1,1,1,3,new building
+1088384,1076,lari,month,7,2020,42,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,2,1,1,1,3,new building
+1144698,15000,lari,,7,2020,,1650,for_sale,land,Land,Surami,,,,,,,,,,
+1140480,122920,lari,,7,2020,57,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Eurostandard,2,1,1,2,10,new building
+1117248,110628,lari,,7,2020,56,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Vazisubani,Muskhelishvili st.,,2,1,1,1,9,new building
+1082195,42284,lari,,7,2020,32,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Samgori,,Black Frame,1,1,1,1,6,under construction
+831504,3688,lari,year,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,5,3,2,2,3,old building
+886034,1537,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,2,1,1,1,5,old building
+857875,1383,lari,month,7,2020,47,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,D.Gamrekeli st.,Newly renovated,2,1,1,1,4,old building
+1017110,1229,lari,month,7,2020,52,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bakhtrioni st.,Newly renovated,2,1,1,1,2,old building
+1020439,144431,lari,,7,2020,45,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Pekini st.,Newly renovated,2,1,1,1,4,old building
+983576,1076,lari,month,7,2020,88,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,2,1,1,1,7,new building
+793623,960,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Gr.Robakidze avenue,Newly renovated,3,2,1,1,8,new building
+833818,2151,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vedzisi,Lvovi st.,Newly renovated,5,3,1,1,2,new building
+793626,840,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,3,new building
+723227,1383,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,T. NadareiSvili st.,Newly renovated,3,2,1,,3,new building
+1025307,3073,lari,month,7,2020,200,300,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,5,4,3,2,,new building
+1033499,233548,lari,,7,2020,90,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Gogebashvili st,Newly renovated,3,2,1,1,7,new building
+1038107,1300,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Br. Kakabadze st.,Newly renovated,3,2,1,1,3,old building
+1025821,2612,lari,month,7,2020,250,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Samtredia st.,Newly renovated,4,3,4,1,15,new building
+1033757,1690,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Gagarini st.,Newly renovated,3,2,2,1,9,new building
+754721,983,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,,4,new building
+892450,5531,lari,month,7,2020,220,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,White Frame,1,,1,,1,new building
+1061667,27657,lari,month,7,2020,10000,400,for_rent,commercial_estate,Warehouse,Tbilisi,Isani-Samgori,Samgori,,Newly renovated,10,,3,,1,new building
+939298,7449,lari,month,7,2020,427,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,10,,2,2,4,old building
+978979,1371,lari,month,7,2020,62,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Burdzgla st.,Newly renovated,2,1,1,1,7,new building
+979747,1690,lari,month,7,2020,76,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Oniashvili st.,Newly renovated,3,2,1,1,3,new building
+816676,2458,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,4,3,1,1,15,new building
+878630,1540,lari,year,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,3,2,1,1,9,new building
+839462,1844,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,A.Tsereteli ave.,Newly renovated,3,2,1,1,4,old building
+970279,1537,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,7,new building
+863272,1680,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bochorishvili st.,Newly renovated,3,2,2,1,10,new building
+901173,7683,lari,month,7,2020,340,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Arakishvili st.,Newly renovated,8,,5,2,2,new building
+958007,1844,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kobuleti st.,Newly renovated,2,1,1,1,2,new building
+842039,2151,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,M.Aleksidze st.,Newly renovated,3,2,2,1,8,new building
+1114169,3073,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Ingorokva st.,Newly renovated,3,2,1,1,8,new building
+1114172,2766,lari,month,7,2020,150,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,3,2,1,1,10,new building
+729919,1076,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Old renovated,2,1,1,,3,old building
+865084,1076,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,2,1,1,1,10,new building
+851257,1076,lari,month,7,2020,35,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,A.Tsereteli ave.,Newly renovated,2,1,1,1,9,old building
+868675,7683,lari,month,7,2020,240,500,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 7,,Newly renovated,4,3,2,,,new building
+899396,13835,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Mindeli st.,Newly renovated,3,2,1,1,2,new building
+980293,1690,lari,month,7,2020,87,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Br. Zubalashvili st.,Newly renovated,2,1,1,1,1,old building
+1039941,4557,lari,month,7,2020,200,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Uchaneishvili st.,Newly renovated,4,3,3,2,1,new building
+1062214,1383,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Berbuki st.,Newly renovated,2,1,1,1,7,new building
+1061701,1537,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Ikalto st.,Newly renovated,3,2,1,1,10,new building
+1061704,1678,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,3,2,1,1,13,new building
+1021767,1844,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,4,3,2,1,4,old building
+987463,2305,lari,month,7,2020,115,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Abuladze st.,Newly renovated,3,2,1,1,10,new building
+1029192,2458,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,N. Djvania st.,Newly renovated,2,1,1,1,4,new building
+1116743,1500,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,Machabeli st.,Newly renovated,2,1,1,1,2,new building
+981065,1383,lari,month,7,2020,59,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,6,new building
+1089099,1537,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,3,2,1,1,11,new building
+761421,7683,lari,month,7,2020,500,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Delisi st.,Newly renovated,9,,1,,4,old building
+1087054,1844,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,,Newly renovated,2,1,1,1,1,old building
+1113423,1229,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Universiteti st.,Newly renovated,2,1,1,1,10,new building
+892500,7068,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Taktakishvili st.,Newly renovated,3,2,1,1,7,new building
+1113428,2151,lari,month,7,2020,180,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Gogolauri st.,Newly renovated,4,3,2,2,4,new building
+834905,2151,lari,month,7,2020,76,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Barnovi st.,Newly renovated,2,1,1,1,3,new building
+890458,1537,lari,month,7,2020,62,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,2,1,1,1,1,old building
+1047385,1370,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,4,new building
+883290,178234,lari,,7,2020,60,100,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Nutsubidze plateau,,Newly renovated,3,2,1,,,new building
+1124956,1690,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,14,new building
+725853,1844,lari,month,7,2020,90,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,Kekelidze st.,Newly renovated,3,,1,2,1,old building
+837213,1844,lari,month,7,2020,125,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Gorgasali st.,Newly renovated,3,2,1,1,2,new building
+851294,2305,lari,month,7,2020,112,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Mtskheta st.,Newly renovated,3,2,1,1,1,new building
+826207,1229,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kekelidze st.,Newly renovated,3,2,1,1,2,old building
+811104,3688,lari,year,7,2020,147,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,5,3,1,1,6,new building
+811876,2458,lari,month,7,2020,210,50,for_rent,private_house,House,Tbilisi,Old Tbilisi,Krtsanisi,Krtsanisi str.,Newly renovated,1,2,2,1,,old building
+849763,2458,lari,month,7,2020,100,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,2,,1,2,4,old building
+1037668,1229,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Janashia st.,Newly renovated,2,1,1,1,2,old building
+872554,2458,lari,month,7,2020,125,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,3,2,1,1,4,new building
+978027,3688,lari,month,7,2020,115,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,3,2,1,1,3,old building
+833901,2151,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,V.Chikovani st.,Newly renovated,3,2,1,1,7,new building
+883311,3380,lari,month,7,2020,155,400,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,7,4,2,1,,new building
+837231,1076,lari,month,7,2020,62,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Paliashvili st.,Newly renovated,2,1,1,1,5,new building
+1018224,2415,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Besiki st.,Newly renovated,3,2,1,1,6,new building
+866930,2151,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,1,6,new building
+889968,251986,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Chikovani st.,Newly renovated,3,2,1,1,4,new building
+849788,1537,lari,month,7,2020,125,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Renovated,4,,2,,2,old building
+861564,1076,lari,month,7,2020,45,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,2,,1,1,,old building
+803710,2151,lari,year,7,2020,113,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,N. Djvania st.,Newly renovated,3,2,1,1,4,new building
+832126,1383,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Saburtalo st.,Newly renovated,2,10,1,1,4,new building
+1021822,1844,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,M.Aleksidze st.,Newly renovated,3,2,1,1,4,new building
+735104,2919,lari,month,7,2020,230,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Samtredia st.,Renovated,4,3,1,,14,old building
+1035649,1200,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Newly renovated,3,2,1,1,3,new building
+995970,1690,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,2,1,1,1,4,new building
+1021827,9219,lari,month,7,2020,350,1700,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,7,5,2,2,,new building
+767620,1076,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,2,2,1,1,6,old building
+833679,1198,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,2,1,1,1,5,old building
+883090,338030,lari,,7,2020,,629,for_sale,land,Land,Tbilisi,Old Tbilisi,Krtsanisi,Krtsanisi str.,,,,,,,
+768400,1383,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,E.Mikeladze st.,Newly renovated,2,1,1,,5,new building
+1056403,3012,lari,month,7,2020,125,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Chonkadze st.,Newly renovated,3,2,2,1,2,old building
+734611,1537,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,2,1,1,,6,old building
+1030800,1383,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,2,1,1,1,13,new building
+987542,4610,lari,month,7,2020,240,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Mtskheta st.,Newly renovated,5,4,2,2,6,new building
+1085078,9219,lari,month,7,2020,400,400,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 7,,Newly renovated,6,4,3,2,,new building
+987543,2151,lari,month,7,2020,105,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,4,3,1,1,13,new building
+885655,3073,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,3,2,1,3,2,new building
+930456,2311,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vedzisi,,Newly renovated,3,2,1,1,5,new building
+1056410,2230,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,T.Tabidze st.,Newly renovated,3,2,2,1,4,new building
+1027482,1690,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Pekini st.,Newly renovated,2,1,1,1,2,new building
+1124507,3073,lari,month,7,2020,250,200,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,7,5,2,2,,new building
+819355,2458,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,3,1,1,7,old building
+872604,3073,lari,year,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Tovstonogovi st.,Newly renovated,4,3,1,1,3,old building
+832922,3688,lari,month,7,2020,125,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,1,1,3,new building
+1105052,1537,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Amagleba turn,Newly renovated,2,1,1,1,2,new building
+720796,993,lari,month,7,2020,25,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,1,1,1,1,1,new building
+979624,1076,lari,month,7,2020,66,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,2,1,1,1,11,new building
+979631,1229,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,2,1,1,1,6,new building
+803760,6000,lari,month,7,2020,200,500,for_rent,private_house,House,Tbilisi,Isani-Samgori,Isani,,Newly renovated,4,3,2,1,,new building
+767665,1076,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Newly renovated,25,1,1,,9,old building
+1121970,10756,lari,month,7,2020,220,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Tarkhnishvili st.,Newly renovated,4,3,3,2,5,new building
+899503,1383,lari,month,7,2020,57,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,2,1,1,1,10,new building
+1064627,1997,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Avlabari,Ketevan Tsamebuli ave.,Newly renovated,3,2,1,1,3,new building
+825011,1383,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,3,new building
+840883,2151,lari,month,7,2020,190,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Newly renovated,4,3,1,1,6,new building
+899507,1690,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Marabda st.,Newly renovated,2,1,1,1,4,new building
+1023668,1229,lari,month,7,2020,95,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,3,2,1,1,10,new building
+770226,993,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,,Newly renovated,2,1,1,1,3,old building
+978867,4610,lari,month,7,2020,140,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,5,,2,1,4,old building
+890294,1537,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Gldani-Nadzaladevi,Nadzaladevi,,Newly renovated,2,1,1,1,1,old building
+748215,922,lari,month,7,2020,47,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,2,1,1,,8,old building
+770231,1229,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Tskneti st.,Newly renovated,4,3,1,1,3,new building
+825016,983,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Old renovated,3,2,2,1,3,old building
+811193,1229,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Newly renovated,2,1,1,1,1,new building
+1110723,1383,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,3,2,1,1,3,new building
+1113027,2296,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,1,7,new building
+1120709,3073,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,4,3,1,1,2,old building
+767173,2458,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Krtsanisi str.,Newly renovated,3,2,1,1,7,new building
+906181,1844,lari,year,7,2020,105,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Newly renovated,2,1,1,1,3,new building
+1103813,8291,lari,month,7,2020,270,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,5,3,3,2,13,new building
+1067974,860,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kazbegi avenue,Newly renovated,2,1,1,1,4,old building
+946374,50704500,lari,,7,2020,110,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,1,1,8,old building
+890569,1321,lari,month,7,2020,52,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Lubliani st.,Newly renovated,2,1,1,1,3,new building
+1022409,1076,lari,month,7,2020,55,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,2,1,1,1,3,new building
+1116874,1537,lari,month,7,2020,96,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Chikovani st.,Newly renovated,3,2,1,1,8,new building
+1011147,2305,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,3,1,1,7,old building
+890059,1076,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Saburtalo st.,Newly renovated,2,1,1,1,10,old building
+1056972,922,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Pekini st.,Newly renovated,2,1,1,1,7,new building
+1019857,313446,lari,,7,2020,80,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Kavtaradze st.,Newly renovated,3,2,1,1,9,new building
+819410,7068,lari,month,7,2020,160,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,4,3,1,1,9,new building
+831698,1076,lari,month,7,2020,54,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,2,1,1,1,2,old building
+835026,6146,lari,month,7,2020,300,200,for_rent,private_house,House,Tbilisi,Old Tbilisi,Krtsanisi,,Newly renovated,5,3,2,1,,new building
+963538,2600,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,4,3,3,1,11,new building
+956372,1220,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,2,1,1,1,6,new building
+1125078,1537,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Oniashvili st.,Newly renovated,3,2,1,1,7,new building
+795863,960,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,2,1,1,1,3,old building
+878551,2766,lari,month,7,2020,77,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,2,1,1,1,7,new building
+1021911,2458,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Kuchishvili st.,Newly renovated,3,2,2,1,10,new building
+1023703,1844,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Agmashenebeli ave.,Newly renovated,2,1,1,1,2,old building
+837335,3995,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,4,3,2,1,6,new building
+835031,10756,lari,month,7,2020,270,245,for_rent,private_house,House,Tbilisi,Didube-Chugureti,Chugureti,Mamardashvili st.,Newly renovated,6,4,2,1,,new building
+963286,1600,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,3,2,1,1,10,new building
+765144,2612,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,16,new building
+990425,1841,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Sololaki,,Newly renovated,2,1,1,1,3,old building
+1015514,1300,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Br. Zubalashvili st.,Newly renovated,2,1,1,1,1,old building
+983513,1537,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,1,13,new building
+795868,960,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,1,4,new building
+963551,1900,lari,month,7,2020,77,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,3,2,1,1,4,new building
+1061856,922,lari,month,7,2020,40,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,3,new building
+1016800,1690,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Ingorokva st.,Newly renovated,3,2,1,1,2,old building
+1018595,1300,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Berbuki st.,Newly renovated,2,1,1,1,9,new building
+987621,1383,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,4,new building
+1056997,1537,lari,month,7,2020,125,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Bochorishvili st.,Newly renovated,3,2,1,1,10,new building
+819430,2458,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,,Newly renovated,3,2,2,1,6,new building
+1025766,1997,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,9,new building
+1086952,1844,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,I.Nikoladze st.,Newly renovated,2,1,1,1,7,new building
+833768,2458,lari,month,7,2020,116,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,3,2,1,1,8,new building
+837353,1229,lari,month,7,2020,100,50,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Vedzisi,,Old renovated,4,2,2,1,,old building
+793323,1440,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,3,2,1,2,4,old building
+872682,2151,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Newly renovated,3,2,2,1,6,old building
+902382,2458,lari,month,7,2020,81,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Budapeshti st.,Newly renovated,3,2,1,1,6,new building
+847089,1537,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,3,2,1,1,6,new building
+880114,2151,lari,month,7,2020,114,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Uznadze st.,Newly renovated,3,2,1,1,3,old building
+890354,1137,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,3,2,1,1,9,new building
+1015538,1844,lari,month,7,2020,126,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Chonkadze st.,Newly renovated,3,2,1,1,4,old building
+1031155,676060,lari,,7,2020,180,530,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Didi digomi,,Newly renovated,5,3,2,1,,new building
+880116,2458,lari,month,7,2020,115,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,1,1,2,old building
+872692,7683,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,,Newly renovated,3,2,1,1,7,new building
+1015540,3073,lari,month,7,2020,135,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,3,2,1,1,3,new building
+1037812,2100,lari,month,7,2020,250,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,3,2,1,11,new building
+803830,3600,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Newly renovated,4,3,1,1,3,new building
+983031,104012,lari,month,7,2020,470,500,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Vedzisi,,Newly renovated,10,6,2,2,,new building
+1019896,5531,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,,Newly renovated,3,2,1,1,6,new building
+750583,2305,lari,month,7,2020,90,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Shevchenko st.,Newly renovated,3,2,1,1,6,new building
+741625,3073,lari,month,7,2020,200,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,,Old renovated,9,,1,,3,old building
+876795,2766,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,1,6,old building
+846076,1383,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,3,2,1,1,9,new building
+878590,1349,lari,year,7,2020,73,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vedzisi,Oniashvili st.,Newly renovated,2,1,1,1,6,new building
+770302,12907,lari,month,7,2020,287,10,for_rent,commercial_estate,Restaurant,Tbilisi,Old Tbilisi,Vera,,Newly renovated,3,,1,1,1,old building
+795901,2400,lari,month,7,2020,100,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,Rustaveli ave.,Newly renovated,3,,1,,2,old building
+1018370,187453,lari,,7,2020,63,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Vazha-pshavela ave.,Newly renovated,3,1,1,6,3,old building
+1070856,3688,lari,month,7,2020,230,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,Chonkadze st.,Newly renovated,5,,2,,4,new building
+1109769,144431,lari,,7,2020,50,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Avlabari,300 Aragveli st.,White Frame,2,1,1,1,10,new building
+1018130,2458,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,3,2,1,,9,old building
+1135891,2458,lari,month,7,2020,77,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Saburtalo st.,Newly renovated,4,,1,,5,new building
+1119765,147504,lari,,7,2020,47,,for_sale,flat,Apartments,Batumi,,,Yusuf Kobaladze st.,Newly renovated,2,1,1,1,18,new building
+1073430,3073,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,3,2,2,5,new building
+1023257,952630,lari,,7,2020,300,640,for_sale,private_house,House,Tbilisi,Didube-Chugureti,Digomi,,Newly renovated,8,7,7,3,,new building
+1113118,245840,lari,,7,2020,90,,for_sale,commercial_estate,Office,Tbilisi,Old Tbilisi,Vera,Kostava st.,Newly renovated,4,,1,,1,new building
+1099554,457877,lari,,7,2020,152,,for_sale,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,Ingorokva st.,Newly renovated,3,,1,,1,new building
+1036066,826637,lari,,7,2020,120,,for_sale,commercial_estate,Hotel,Tbilisi,Old Tbilisi,Mtatsminda,Griboedovi st.,Newly renovated,,,,,,new building
+1032484,765177,lari,,7,2020,300,1,for_sale,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,7,4,1,,,old building
+1019687,1383,lari,month,7,2020,105,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vedzisi,,Newly renovated,2,1,1,,4,new building
+1062698,1537,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Avlabari,Ketevan Tsamebuli ave.,Newly renovated,2,1,1,,2,new building
+1078825,144431,lari,,7,2020,40,,for_sale,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Ritsa st.,Newly renovated,2,1,1,,1,old building
+1028404,1844,lari,month,7,2020,72,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Vera,Gambashidze st.,Newly renovated,2,,2,,2,new building
+1100600,2151,lari,month,7,2020,70,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Chitadze st.,Newly renovated,2,1,1,,1,new building
+1072956,3688,lari,month,7,2020,110,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,T.Tabidze st.,Newly renovated,4,3,2,,2,new building
+1023031,1537,lari,month,7,2020,70,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,I.Abashidze st.,Newly renovated,3,,1,1,1,old building
+1021246,1076,lari,month,7,2020,44,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,2,1,1,5,6,new building
+1023042,1229,lari,month,7,2020,62,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,,Newly renovated,2,1,1,,4,new building
+1038146,1537,lari,month,7,2020,95,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Gagarini st.,Newly renovated,3,2,1,7,4,new building
+1047363,3073,lari,month,7,2020,107,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Mtatsminda,,Newly renovated,3,,1,1,,old building
+1023300,2305,lari,month,7,2020,130,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Saburtalo st.,Newly renovated,3,2,1,,4,new building
+1128783,3073,lari,month,7,2020,160,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,A.Chavchavadze st.,Newly renovated,3,2,2,1,2,new building
+1018711,12292,lari,month,7,2020,600,250,for_rent,private_house,House,Tbilisi,Isani-Samgori,Ortachala,,Newly renovated,8,5,3,7,,new building
+1095771,1229,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Arsena st.,Newly renovated,2,1,1,1,4,new building
+1019743,800,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Krtsanisi,Gorgasali st.,Newly renovated,2,1,1,,9,new building
+1010539,2151,lari,month,7,2020,50,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Berbuki st.,Newly renovated,2,1,1,5,16,new building
+1102444,4610,lari,month,7,2020,165,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,N. Ramishvili st.,Newly renovated,4,3,2,4,2,new building
+1026669,10448,lari,month,7,2020,270,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,S.Tsintsadze st.,Newly renovated,1,,2,,1,new building
+1019508,1537,lari,month,7,2020,60,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,,10,new building
+1099380,15365,lari,month,7,2020,450,1200,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 7,,Newly renovated,7,4,4,2,,new building
+1127030,159796,lari,,7,2020,61,,for_sale,flat,Apartments,Tbilisi,Isani-Samgori,Isani,,Newly renovated,2,1,1,1,4,new building
+1080184,250757,lari,,7,2020,48,,for_sale,flat,Apartments,Batumi,,,,Newly renovated,2,1,1,1,5,new building
+1030275,706790,lari,,7,2020,400,2000,for_sale,summer_house,Summer Cottage,Tbilisi,Didgori,Kojori,,Newly renovated,6,5,2,1,,new building
+1095817,236621,lari,,7,2020,108,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Shartava st.,Newly renovated,3,2,2,,10,new building
+1019534,922,lari,month,7,2020,45,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Bagebi,Tskneti highway,Newly renovated,2,1,1,,7,new building
+1123984,1063,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,2,1,1,1,4,old building
+1037714,1844,lari,month,7,2020,80,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Br. Zubalashvili st.,Newly renovated,3,1,1,,2,new building
+1026455,2151,lari,month,7,2020,120,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,4,3,2,2,6,new building
+1026715,4302,lari,month,7,2020,220,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Vake,A.Razmadze st.,Newly renovated,7,,2,30,2,old building
+1129628,150577,lari,,7,2020,40,,for_sale,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Politkovskaya  st.,Newly renovated,1,,1,,1,new building
+1012893,2151,lari,month,7,2020,75,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,2,1,1,6,2,old building
+1017501,130,lari,day,7,2020,,,for_lease_one,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Petriashvili st.,Newly renovated,3,2,1,,2,old building
+1037981,1537,lari,month,7,2020,140,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Mirotadze st.,Newly renovated,3,2,2,1,9,new building
+1026463,150577,lari,,7,2020,80,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,Newly renovated,3,2,1,,1,new building
+1068710,1383,lari,month,7,2020,100,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Chavchavadze avenue,Newly renovated,4,2,1,,5,old building
+1118892,3688,lari,month,7,2020,180,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Vera,Kostava turn I,Newly renovated,4,3,2,4,9,new building
+1104048,1229,lari,month,7,2020,57,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,2,1,1,1,6,new building
+1010609,7683,lari,month,7,2020,360,1000,for_rent,private_house,House,Tbilisi,Didgori,Tskneti,,Newly renovated,6,4,3,1,,new building
+1104569,6146,lari,month,7,2020,550,150,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Saburtalo,,Newly renovated,7,4,5,,,new building
+1125319,1537,lari,month,7,2020,95,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Vake,Kavsadze st.,Newly renovated,4,3,3,,2,new building
+1008331,1383,lari,month,7,2020,85,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,T. NadareiSvili st.,Newly renovated,3,2,1,,8,new building
+1088456,460950,lari,,7,2020,167,,for_sale,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Panaskerteli st.,Newly renovated,4,3,2,3,8,old building
+1075666,3688,lari,month,7,2020,125,,for_rent,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,Nutsubidze st.,Newly renovated,5,,2,,2,new building
+1062653,9219,lari,month,7,2020,400,700,for_rent,private_house,House,Tbilisi,Vake-Saburtalo,Digomi 7,,Newly renovated,8,4,3,,,new building
+1107198,1844,lari,month,7,2020,65,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Besiki st.,Newly renovated,2,1,1,1,4,new building
+938995,Contract price,,,7,2020,62,,for_sale,commercial_estate,Office,Tbilisi,Vake-Saburtalo,Saburtalo,S.Chikovani st.,Newly renovated,5,,6,,1,new building
+1142915,1231,lari,month,7,2020,47,,for_rent,flat,Apartments,Tbilisi,Vake-Saburtalo,Saburtalo,Tsagareli st.,Newly renovated,2,1,1,1,3,new building
+1118784,152361,lari,,7,2020,66,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Gr.Robakidze avenue,White Frame,2,1,1,2,13,new building
+1124273,152361,lari,,7,2020,66,,for_sale,flat,Apartments,Tbilisi,Didube-Chugureti,Digomi,Gr.Robakidze avenue,White Frame,2,1,1,2,13,new building
+574384,Contract price,,,7,2020,100,500,for_rent,summer_house,Summer Cottage,Tsemi,,,,,6,5,7,,,
+813045,36888,lari,,7,2020,13,,for_sale,commercial_estate,Retail real estate,Telavi,,,,Renovated,1,,,,1,new building
+896000,87840,lari,,7,2020,224,,for_sale,commercial_estate,Garage,Tbilisi,Didube-Chugureti,Didube,Samtredia st.,Black Frame,,,,,,new building
+1073828,26821,lari,,7,2020,,1500,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Digomi village,,,,,,,,
+1007087,2613,lari,month,7,2020,52,,for_rent,flat,Apartments,Tbilisi,Old Tbilisi,Mtatsminda,Besiki st.,Newly renovated,2,1,1,1,5,new building
+1132800,3996,lari,month,7,2020,153,,for_rent,commercial_estate,Office,Tbilisi,Old Tbilisi,Vera,Gambashidze st.,Newly renovated,3,,1,,1,
+1140007,20000,lari,,7,2020,,1500,for_sale,land,Land,Tbilisi,Isani-Samgori,,,,,,,,,
+1122158,923,lari,month,7,2020,95,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Chugureti,Uznadze st.,Newly renovated,3,2,1,1,2,
+629314,516377,lari,,7,2020,,600,for_sale,land,Land,Tbilisi,Vake-Saburtalo,Vake,Kipshidze st.,,,,,,,
+978376,80,lari,day,7,2020,,,for_lease_one,flat,Apartments,Batumi,,,,Newly renovated,3,2,1,1,7,new building
+978456,50,lari,day,7,2020,,,for_lease_one,flat,Apartments,Batumi,,,,Newly renovated,1,1,1,1,21,new building
+978515,80,lari,day,7,2020,,,for_lease_one,flat,Apartments,Batumi,,,,Newly renovated,3,2,1,1,4,new building
+351956,92091,lari,,7,2020,,730,for_sale,land,Land,Tbilisi,Didgori,Tskneti,,,,,,,,
+716140,2149,lari,month,7,2020,220,,for_rent,flat,Apartments,Tbilisi,Didube-Chugureti,Didube,Batumi st.,Newly renovated,5,3,2,3,8,new building
+705537,80865,lari,,7,2020,,2500,for_sale,land,Land,Natakhtari,,,,,,,,,,
+1143839,129276,lari,,7,2020,107,,for_sale,flat,Apartments,Khelvachauri,,,,Old renovated,5,3,1,1,2,old building
